@@ -1,0 +1,26 @@
+[
+  {
+    "pathName": "Farragut Crossing",
+    "station1": "Farragut North",
+    "station2": "Farragut West",
+    "time": 3
+  },
+  {
+    "pathName": "10 MetroBus",
+    "station1": "Twinbrook",
+    "station2": "Glenmont",
+    "time": 38
+  },
+  {
+    "pathName": "21X/21 The Bus",
+    "station1": "New Carrollton",
+    "station2": "Downtown Largo",
+    "time": 23
+  },
+  {
+    "pathName": "P12 MetroBus",
+    "station1": "Addison Road-Seat Pleasant",
+    "station2": "Suitland",
+    "time": 29
+  }
+]
